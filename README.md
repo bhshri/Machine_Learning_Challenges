@@ -1,4 +1,6 @@
 ## HackerEarth Machine Learning challenge: Adopt a buddy
+
+F1-Score: 90.69872 (Rank 1 F1-Score 91.18537)
 Rank: 50 ( Top 1 % out of 5,000+ participants )
 
 Leaderboard: https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-pet-adoption/leaderboard/pet-adoption-9-5838c75b/
